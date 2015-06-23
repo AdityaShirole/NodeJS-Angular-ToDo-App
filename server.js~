@@ -44,7 +44,7 @@ var Todo = mongoose.model('Todo', {
 		
 		//create a todo using info from the body
 		Todo.create({
-			text : req.body.text 
+			text : req.params.text 
 			},function(err, todo) {
 			if(err){
 				res.send(err);
