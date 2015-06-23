@@ -1,0 +1,21 @@
+{
+  "name": "NodeJS-Angular-ToDo-App",
+  "version": "0.0.0",
+  "description": "A simple todo app using node plus angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdityaShirole/NodeJS-Angular-ToDo-App.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Aditya Shirole",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/AdityaShirole/NodeJS-Angular-ToDo-App/issues"
+  }
+}
